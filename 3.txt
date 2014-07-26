@@ -1,3 +1,4 @@
 File3
-
 stash3
+
+Changes to File3
